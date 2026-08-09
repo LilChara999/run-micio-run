@@ -103,4 +103,20 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 # Auto-generated cache in Assets folder
-/[Aa]ssets/[Ss]ceneDependencyCache*
+/[Aa]ssets/[Ss]ceneDependencyCache* 
+
+# --- OS / System Files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- IDEs / Editors ---
+# Если используешь Rider, VS Code или Git-клиенты:
+.idea/
+.vscode/
+.Plastic/
+
+# --- Local Configs & Sensitive Data ---
+# На случай, если появится локальная конфигурация или ключи:
+.env
+*.local
